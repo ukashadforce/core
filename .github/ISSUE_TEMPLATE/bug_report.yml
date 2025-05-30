@@ -69,7 +69,7 @@ body:
       description: |
         Providing a link [to the documentation][docs] helps us categorize the issue and might speed up the
         investigation by automatically informing a contributor, while also providing a useful reference for others.
-
+  description: >
         [docs]: https://www.home-assistant.io/integrations
 
   - type: markdown
