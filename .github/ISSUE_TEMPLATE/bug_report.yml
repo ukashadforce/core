@@ -4,6 +4,7 @@ type: Bug
 body:
   - type: markdown
     attributes:
+
       value: |
         This issue form is for reporting bugs only!
 
